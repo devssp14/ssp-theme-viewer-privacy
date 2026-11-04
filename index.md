@@ -3,7 +3,7 @@ Effective Date: November 4, 2026
 
 Developer: SSP Design
 
-Contact Email: xperiadevssp@gmail.com (Replace with your actual support email)
+Contact Email: xperiadevssp@gmail.com
 
 1. Introduction
 SSP Design ("we," "our," or "us") operates the SSP Theme Viewer mobile application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
