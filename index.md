@@ -3,7 +3,7 @@ Effective Date: November 4, 2026
 
 Developer: SSP Design
 
-Contact Email: support@sspdesign.com (Replace with your actual support email)
+Contact Email: xperiadevssp@gmail.com (Replace with your actual support email)
 
 1. Introduction
 SSP Design ("we," "our," or "us") operates the SSP Theme Viewer mobile application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
@@ -29,7 +29,7 @@ Our App is a portfolio showcase intended for a general audience. We do not knowi
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page with a revised effective date.
 
 6. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@sspdesign.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at xperiadevssp@gmail.com.
 
 Google Play Console: Data Safety Form Guidelines
 When filling out the Data Safety questionnaire in your Google Play Console for SSP Theme Viewer, use the following accurate declarations based on your app's implementation:
