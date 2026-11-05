@@ -1,0 +1,347 @@
+
+[
+  { "title" : "[SSP] Green Wave",
+    "imageName":"theme_greenwave",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GreenWave"
+  },
+  { "title" : "[SSP] Flat Pink",
+    "imageName":"theme_flat_pink",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.FlatPink"
+  },
+  { "title" : "[SSP] Lime Green",
+    "imageName":"theme_lime_green",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.LimeGreen"
+  },
+  { "title" : "[SSP] Black Gold",
+    "imageName":"theme_blackgold",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.BlackGold"
+  },
+  { "title" : "[SSP] Global Orange",
+    "imageName":"theme_globalorange",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.GlobalOrange"
+  },
+  { "title" : "[SSP] Peach White",
+    "imageName":"theme_peacewhite",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PeachWhite"
+  },
+  {
+    "title" : "[SSP] Black OS",
+    "imageName":"theme_blackos",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.BlackOS"
+  },
+  {
+    "title" : "[SSP] Thin Clouds",
+    "imageName":"theme_thinclouds",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Thinclouds"
+  },
+  {
+    "title" : "[SSP] God Ganesh",
+    "imageName":"theme_godganesh",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.themes.Ganeshgod"
+  },
+  {
+    "title" : "[SSP] Mahadev",
+    "imageName":"theme_mahadev",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesign.themes.Mahadev"
+  },
+  {
+    "title" : "[SSP] Golden Eagle",
+    "imageName":"theme_goldeneagle",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GoldenEagle"
+  },
+  {
+    "title" : "[SSP] Lion",
+    "imageName":"theme_lion",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Lion"
+  },
+  {
+    "title" : "[SSP] Golden Flower",
+    "imageName":"theme_goldenflower",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GoldenRose"
+  },
+  {
+    "title" : "[SSP] City View",
+    "imageName":"theme_cityview",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.CityView"
+  },
+  {
+    "title" : "[SSP] Beautiful Moon",
+    "imageName":"theme_beautifulmoon",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BeautifulMoon"
+  },
+  {
+    "title" : "[SSP] Jai Hanuman",
+    "imageName":"theme_jaihanuman",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.jaiHanuman"
+  },
+  {
+    "title" : "[SSP] Street Light",
+    "imageName":"theme_streetlights",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesign.themes.StreetLights"
+  },
+  {
+    "title" : "[SSP] Dark Aqua",
+    "imageName":"theme_darkaqua",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.DarkAqua"
+  },
+  {
+    "title" : "[SSP] Cool Winter",
+    "imageName":"theme_coolwinter",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.CoolWinter"
+  },
+  {
+    "title" : "[SSP] Mt Fuji",
+    "imageName":"theme_mtfuji",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.MtFuji"
+  },
+  {
+    "title" : "[SSP] Mountain Clouds",
+    "imageName":"theme_mountainclouds",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.MountainClouds"
+  },
+  {
+    "title" : "[SSP] Black Turquoise",
+    "imageName":"theme_blackturquoise",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackTurquoise"
+  },
+  {
+    "title" : "[SSP] Blue Sky",
+    "imageName":"theme_bluesky",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.bluesky"
+  },
+  {
+    "title" : "[SSP] Black Gold Silk",
+    "imageName":"theme_blackgoldsilk",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackGoldSilk"
+  },
+  {
+    "title" : "[SSP] Luxurious Gold",
+    "imageName":"theme_luxgold",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.luxuriousGold"
+  },
+  {
+    "title" : "[SSP] Eiffel Tower",
+    "imageName":"theme_effile",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.EiffelTower"
+  },
+  {
+    "title" : "[SSP] Gradient Gold",
+    "imageName":"theme_gradgold",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GradientGold"
+  },
+  {
+    "title" : "[SSP] Crystal",
+    "imageName":"theme_crystals",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.Crystal"
+  },
+  {
+    "title" : "[SSP] Blue Black",
+    "imageName":"theme_blueblack",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.theme.Blueblack"
+  },
+  {
+    "title" : "[SSP] Flat Amber",
+    "imageName":"theme_flatamber",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.FlatAmber"
+  },
+  {
+    "title" : "[SSP] Luxury Purple",
+    "imageName":"theme_luxpurp",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.LuxuryPurple"
+  },
+  {
+    "title" : "[SSP] Green Carbon",
+    "imageName":"theme_greencarbon",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.GreenCarbon"
+  },
+  {
+    "title" : "[SSP] Black Gradient",
+    "imageName":"theme_blackgrad",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GradientBlack"
+  },
+  {
+    "title" : "[SSP] Gold Elite",
+    "imageName":"theme_goldelite",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GoldElite"
+  },
+  {
+    "title" : "[SSP] Black Polygons",
+    "imageName":"theme_blackpol",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackPolygons"
+  },
+  {
+    "title" : "[SSP] Rainy Day",
+    "imageName":"theme_rainyday",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RainyDay"
+  },
+  {
+    "title" : "[SSP] Abstract Purple",
+    "imageName":"theme_abstractpurp",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.AbstractPurple"
+  },
+  {
+    "title" : "[SSP] Blue Crystal",
+    "imageName":"theme_bluecryst",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.BlueCrystal"
+  },
+  {
+    "title" : "[SSP] Its Night",
+    "imageName":"theme_itsnight",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.ItsNight"
+  },
+  {
+    "title" : "[SSP] Dandelion",
+    "imageName":"theme_dand",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.Dandelion"
+  },
+  {
+    "title" : "[SSP] Paper Hole",
+    "imageName":"theme_paperhole",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.themes.PaperHole"
+  },
+  {
+    "title" : "[SSP] Ink Art",
+    "imageName":"theme_inkart",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.InkArt"
+  },
+  {
+    "title" : "[SSP] Beach Moon",
+    "imageName":"theme_beachmoon",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BeachMoon"
+  },
+  {
+    "title" : "[SSP] Chequered Gold",
+    "imageName":"theme_cheqgold",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.ChequeredGold"
+  },
+  {
+    "title" : "[SSP] Flat Red",
+    "imageName":"theme_flatred",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.FlatRed"
+  },
+  {
+    "title" : "[SSP] Dark & Golden",
+    "imageName":"theme_darkngold",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.DarkGolden"
+  },
+  {
+    "title" : "[SSP] Golden Brown",
+    "imageName":"theme_goldenbrown",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GoldenBrown"
+  },
+  {
+    "title" : "[SSP] Tulip",
+    "imageName":"theme_tulip",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.Tulip"
+  },
+  {
+    "title" : "[SSP]Be Mine",
+    "imageName":"theme_bemine",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BeMine"
+  },
+  {
+    "title" : "[SSP]Air Balloon",
+    "imageName":"theme_airbal",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.AirBalloon"
+  },
+  {
+    "title" : "[SSP]Grass Land",
+    "imageName":"theme_grass",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GrassLand"
+  },
+  {
+    "title" : "[SSP]Frost Blue",
+    "imageName":"theme_frost",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.FrostBlue"
+  },
+  {
+    "title" : "[SSP]Loneliness",
+    "imageName":"theme_lonle",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Loneliness"
+  },
+  {
+    "title" : "[SSP]Feathers",
+    "imageName":"theme_feathers",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Feathers"
+  },
+  {
+    "title" : "[SSP]Craft Space",
+    "imageName":"theme_craft",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.CraftSpace"
+  },
+  {
+    "title" : "[SSP]Luxury Blue",
+    "imageName":"theme_luxblue",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.LuxuryBlue"
+  },
+  {
+    "title" : "[SSP]The Night Sky",
+    "imageName":"theme_nightsky",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.Thenightsky"
+  },
+  {
+    "title" : "[SSP]Buddha",
+    "imageName":"theme_buddha",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.themes.Buddha"
+  },
+  {
+    "title" : "[SSP]Dark City",
+    "imageName":"theme_darkcity",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.DarkCity"
+  },
+  {
+    "title" : "[SSP]Winter Snow",
+    "imageName":"theme_wintersnow",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.wintersnow"
+  },
+  {
+    "title" : "[SSP]Desert Taj",
+    "imageName":"theme_desert",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.deserttaj"
+  },
+  {
+    "title" : "[SSP]Fall Season",
+    "imageName":"theme_fallseason",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.FallSeason"
+  },
+  {
+    "title" : "[SSP]City Nights",
+    "imageName":"theme_citynights",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.citynights"
+  },
+  {
+    "title" : "[SSP]Neon Flower",
+    "imageName":"theme_neonflow",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.NeonFlower"
+  },
+  {
+    "title" : "[SSP]Galaxy",
+    "imageName":"theme_galax",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.galaxy"
+  },
+  {
+    "title" : "[SSP]Music",
+    "imageName":"theme_music",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Music"
+  },
+  {
+    "title" : "[SSP]Merry Christmas !",
+    "imageName":"theme_christ",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=Com.SSP.themes.Christmas"
+  },
+  {
+    "title" : "[SSP]Black Leaf",
+    "imageName":"theme_blackleaf",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackLeaf"
+  },
+  {
+    "title" : "[SSP]Birdie",
+    "imageName":"theme_bird",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Birdie"
+  },
+  {
+    "title" : "[SSP]Luxury Green",
+    "imageName":"theme_luxgreen",
+    "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.LuxuryGreen"
+  }
+]

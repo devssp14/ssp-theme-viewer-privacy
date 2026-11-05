@@ -1,0 +1,158 @@
+[
+    {
+        "packageName" : "com.sspwatchfacestudio.magwheel",
+        "title" : "Mag Wheel",
+        "priceString" : "free",
+        "imageName" : "wf_magwheel"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.retrobold",
+        "title" : "Retro Bold",
+        "priceString" : "free",
+        "imageName" : "wf_retrobold"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.chronolite",
+        "title" : "Chrono Lite",
+        "priceString" : "free",
+        "imageName" : "wf_chronolite"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.cleargrey",
+        "title" : "Clear Grey",
+        "priceString" : "free",
+        "imageName" : "wf_cleargrey"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.boldanalog",
+        "title" : "Bold Analog",
+        "priceString" : "$0.99",
+        "imageName" : "wf_bold_analog"
+    },
+    {
+        "packageName" : "com.watchfacestudio.BoldChrono",
+        "title" : "Bold Chrono",
+        "priceString" : "$0.99",
+        "imageName" : "wf_bold_chrono"
+    },
+
+    {
+        "packageName" : "com.sspwatchfacestudio.biganalog",
+        "title" : "Big Analog",
+        "priceString" : "$0.99",
+        "imageName" : "wf_biganalog"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.keydial",
+        "title" : "Key Dial",
+        "priceString" : "$0.99",
+        "imageName" : "wf_keydial"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.magwheelPro",
+        "title" : "Mag Wheel Pro",
+        "priceString" : "$0.99",
+        "imageName" : "wf_magwheelpro"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.gearanalog",
+        "title" : "Gear Analog",
+        "priceString" : "$0.99",
+        "imageName" : "wf_gearanalog"
+    },
+    {
+        "packageName" : "com.watchfacestudio.boldhour",
+        "title" : "Bold Hour",
+        "priceString" : "$0.99",
+        "imageName" : "wf_boldhour"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.dualtone",
+        "title" : "Dual Tone",
+        "priceString" : "$0.99",
+        "imageName" : "wf_dualtone"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.shadow",
+        "title" : "Shadow",
+        "priceString" : "$0.49",
+        "imageName" : "wf_shadow"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.sspclean",
+        "title" : "SSP Clean",
+        "priceString" : "$0.99",
+        "imageName" : "wf_sspclean"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.skewed",
+        "title" : "Skewed",
+        "priceString" : "$0.99",
+        "imageName" : "wf_skewed"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.colossal",
+        "title" : "Colossal",
+        "priceString" : "$0.99",
+        "imageName" : "wf_colossal"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.infinity",
+        "title" : "Infinity",
+        "priceString" : "$0.99",
+        "imageName" : "wf_infinity"
+    },
+
+    {
+        "packageName" : "com.sspwatchfacestudio.cleardigital",
+        "title" : "Clear Digital",
+        "priceString" : "$0.49",
+        "imageName" : "wf_cleardigital"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.blackdial",
+        "title" : "Black Dial",
+        "priceString" : "$0.49",
+        "imageName" : "wf_blackdial"
+    },
+
+    {
+        "packageName" : "com.watchfacestudio.bigdial",
+        "title" : "Big Dial",
+        "priceString" : "$0.99",
+        "imageName" : "wf_bigdial"
+    },
+
+    {
+        "packageName" : "com.sspwatchfacestudio.retroflip",
+        "title" : "Retro flip",
+        "priceString" : "$0.99",
+        "imageName" : "wf_retroflip"
+    },
+    {
+        "packageName" : "com.sspwatchfacestudio.aesthetic",
+        "title" : "Aesthetic",
+        "priceString" : "$0.99",
+        "imageName" : "wf_aesthetic"
+    },
+
+    {
+        "packageName": "com.sspwatchfacestudio.swirl",
+        "title": "Swirl",
+        "priceString": "$0.49",
+        "imageName": "wf_swirl"
+    },
+    {
+        "packageName": "com.sspwatchfacestudio.gearsdigital",
+        "title": "Gear Digital",
+        "priceString": "$0.49",
+        "imageName": "wf_geardigital"
+    },
+    {
+        "packageName": "ccom.sspwatchfacestudio.coloredbold",
+        "title": "Colored Bold",
+        "priceString": "$0.49",
+        "imageName": "wf_coloredbold"
+    }
+
+]
